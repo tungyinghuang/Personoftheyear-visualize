@@ -1,0 +1,653 @@
+[
+  {
+    "Name": "Charles Lindbergh",
+    "Year": 1927,
+    "Yeartail": 27,
+    "Pics": "images/1927.jpg",
+    "Description": "In May 1927, Lindbergh was the first person to fly a plane non-stop over the\u00A0Atlantic Ocean\u00A0(from\u00A0New York City,\u00A0USA\u00A0to\u00A0Paris,\u00A0France)."
+  },
+  {
+    "Name": "Walter Chrysler",
+    "Year": 1928,
+    "Yeartail": 28,
+    "Pics": "images/1928.jpg",
+    "Description": "In 1928, Chrysler joined\u00A0his company\u00A0with\u00A0Dodge, and began work on the\u00A0Chrysler Building."
+  },
+  {
+    "Name": "Owen D. Young",
+    "Year": 1929,
+    "Yeartail": 29,
+    "Pics": "images/1929.jpg",
+    "Description": "Young led a committee which wrote the\u00A0Young Plan. This was a payment plan to help\u00A0Germany\u00A0pay\u00A0reparations\u00A0for\u00A0World War I. Germany owed 112 billion\u00A0marks\u00A0(US $26.3 billion) for damage caused by the war."
+  },
+  {
+    "Name": "Mahatma Gandhi",
+    "Year": 1930,
+    "Yeartail": 30,
+    "Pics": "images/1930.jpg",
+    "Description": "Gandhi was the leader of the\u00A0Indian independence movement. In 1930, he led the\u00A0Salt Satyagraha, a 240-mile\u00A0march to\u00A0protest\u00A0the\u00A0British Raj\u00A0putting\u00A0taxes\u00A0on\u00A0salt."
+  },
+  {
+    "Name": "Pierre Laval",
+    "Year": 1931,
+    "Yeartail": 31,
+    "Pics": "images/1931.jpg",
+    "Description": "Laval was a four-time\u00A0Prime Minister of France. He blocked an international\u00A0loan\u00A0package to a big\u00A0Austrian\u00A0bank\u00A0called\u00A0Creditanstait. The bank had to declare\u00A0bankruptcy. This was one of the first major bank failures that led to the\u00A0Great Depression.[6]"
+  },
+  {
+    "Name": "Franklin D. Roosevelt",
+    "Year": 1932,
+    "Yeartail": 32,
+    "Pics": "images/1932.jpg",
+    "Description": "Roosevelt won the\u00A01932 United States Presidential election\u00A0by a\u00A0landslide, defeating the\u00A0incumbent,\u00A0Herbert Hoover."
+  },
+  {
+    "Name": "Hugh S. Johnson",
+    "Year": 1933,
+    "Yeartail": 33,
+    "Pics": "images/1933.jpg",
+    "Description": "In 1933, Johnson was made the director of the\u00A0National Recovery Administration. President Roosevelt gave this agency the job of bringing\u00A0industry,\u00A0labor, and government together to create codes of \"fair practices\" and set\u00A0prices."
+  },
+  {
+    "Name": "Franklin D. Roosevelt",
+    "Year": 1934,
+    "Yeartail": 34,
+    "Pics": "images/1934.jpg",
+    "Description": "Roosevelt was\u00A0President of the United States\u00A0from 1933 to 1945."
+  },
+  {
+    "Name": "Haile Selassie",
+    "Year": 1935,
+    "Yeartail": 35,
+    "Pics": "images/1935.jpg",
+    "Description": "Selassie was the\u00A0Emperor of Ethiopia\u00A0from 1930 to 1974. In October 1935,\u00A0Italy\u00A0invaded\u00A0Ethiopia, starting the\u00A0Second Italo-Abyssinian War."
+  },
+  {
+    "Name": "Wallis Simpson",
+    "Year": 1936,
+    "Yeartail": 36,
+    "Pics": "images/1936.jpg",
+    "Description": "In 1936,\u00A0King Edward VIII\u00A0of the United Kingdom decided to\u00A0abdicate\u00A0his throne (give up being King) so he could marry Simpson."
+  },
+  {
+    "Name": "Chiang Kai-shek&Soong Mei-ling",
+    "Year": 1937,
+    "Yeartail": 37,
+    "Pics": "images/1937.jpg",
+    "Description": "Chiang was\u00A0Premier of the Republic of China\u00A0when the\u00A0Second Sino-Japanese War\u00A0started in 1937."
+  },
+  {
+    "Name": "Adolf Hitler",
+    "Year": 1938,
+    "Yeartail": 38,
+    "Pics": "images/1938.jpg",
+    "Description": "In 1938, Hitler was\u00A0Chancellor of Germany. That year,\u00A0Germany invaded Austria\u00A0and\u00A0added it to\u00A0Germany. Hitler also got France, the United Kingdom, and\u00A0Italy\u00A0to sign the\u00A0Munich agreement, which allowed Germany to take over the\u00A0Sudetenland."
+  },
+  {
+    "Name": "Joseph Stalin",
+    "Year": 1939,
+    "Yeartail": 39,
+    "Pics": "images/1939.jpg",
+    "Description": "In 1939, Stalin was leading the\u00A0Soviet Union. He ordered the Soviet\u00A0Red Army\u00A0to\u00A0invade eastern Poland."
+  },
+  {
+    "Name": "Winston Churchill",
+    "Year": 1940,
+    "Yeartail": 40,
+    "Pics": "images/1940.jpg",
+    "Description": "Churchill was\u00A0Prime Minister of the United Kingdom\u00A0during the 1940\u00A0Dunkirk evacuation\u00A0and the\u00A0Battle of Britain\u00A0(one of\u00A0Nazi Germany's first big losses and an important turning point in\u00A0the war[7])"
+  },
+  {
+    "Name": "Franklin D. Roosevelt",
+    "Year": 1941,
+    "Yeartail": 41,
+    "Pics": "images/1941.jpg",
+    "Description": "Roosevelt was President of the United States in 1941 when\u00A0Japan\u00A0attacked Pearl Harbor. He\u00A0declared war\u00A0on Japan, which brought the U.S. into\u00A0World War II. TIME had actually chosen\u00A0Dumbo\u00A0as their \"Mammal\u00A0of the Year\" before the Pearl Harbor attack, but quickly changed it afterward.[8]"
+  },
+  {
+    "Name": "Joseph Stalin",
+    "Year": 1942,
+    "Yeartail": 42,
+    "Pics": "images/1942.jpg",
+    "Description": "Stalin was the\u00A0head\u00A0of the Soviet Union during the\u00A0Battle of Stalingrad. The battle lasted until 1943 and many people died, but it stopped the Nazis from moving any farther east or\u00A0taking over the Soviet Union."
+  },
+  {
+    "Name": "George Marshall",
+    "Year": 1943,
+    "Yeartail": 43,
+    "Pics": "images/1943.jpg",
+    "Description": "As\u00A0Chief of Staff\u00A0of the\u00A0U.S. Army, Marshall gave the President advice and helped him make decisions about what\u00A0the military\u00A0should do during World War II."
+  },
+  {
+    "Name": "Dwight D. Eisenhower",
+    "Year": 1944,
+    "Yeartail": 44,
+    "Pics": "images/1944.jpg",
+    "Description": "Eisenhower was in charge of all\u00A0Allied\u00A0troops\u00A0during the\u00A0Battle of Normandy\u00A0in 1944."
+  },
+  {
+    "Name": "Harry S. Truman",
+    "Year": 1945,
+    "Yeartail": 45,
+    "Pics": "images/1945.jpg",
+    "Description": "Truman became the U.S. President when Roosevelt died in 1945. Truman ordered the\u00A0atomic bombings of Hiroshima and Nagasaki. Shortly after the Nagasaki bombing, Japan\u00A0surrendered\u00A0and\u00A0World War II\u00A0ended."
+  },
+  {
+    "Name": "James F. Byrnes",
+    "Year": 1946,
+    "Yeartail": 46,
+    "Pics": "images/1946.jpg",
+    "Description": "Byrnes was\u00A0U.S. Secretary of State\u00A0during the\u00A0Iran crisis of 1946, when the Soviet Union refused to leave parts of Iran that it had\u00A0occupied\u00A0during World War II. He also cancelled the\u00A0Morgenthau Plan, which would have destroyed all the\u00A0industrial\u00A0factories\u00A0in\u00A0West Germany\u00A0so it could never fight another war."
+  },
+  {
+    "Name": "George Marshall",
+    "Year": 1947,
+    "Yeartail": 47,
+    "Pics": "images/1947.jpg",
+    "Description": "Marshall became U.S. Secretary of state in 1947. He wrote the\u00A0Marshall Plan, a plan for how the U.S. could help\u00A0Western Europe\u00A0recover from World War II."
+  },
+  {
+    "Name": "Harry S. Truman",
+    "Year": 1948,
+    "Yeartail": 48,
+    "Pics": "images/1948.jpg",
+    "Description": "Truman was\u00A0elected President in 1948. This was one of the most unexpected wins in American history.[9][10][11]"
+  },
+  {
+    "Name": "Winston Churchill",
+    "Year": 1949,
+    "Yeartail": 49,
+    "Pics": "images/1949.jpg",
+    "Description": "Churchill was chosen as the \"man of the half-century.\" By 1949, he was the\u00A0Leader of the Opposition\u00A0in the U.K."
+  },
+  {
+    "Name": "The American fighting-man",
+    "Year": 1950,
+    "Yeartail": 50,
+    "Pics": "images/1950.jpg",
+    "Description": "\"The American fighting-man\" was chosen to stand for all U.S. soldiers fighting in the\u00A0Korean War, which started in 1950."
+  },
+  {
+    "Name": "Mohammad Mossadegh",
+    "Year": 1951,
+    "Yeartail": 51,
+    "Pics": "images/1951.jpg",
+    "Description": "Mossadegh was elected\u00A0Prime Minister\u00A0of\u00A0Iran\u00A0in 1951. He caused the\u00A0Abadan Crisis\u00A0by taking over a British\u00A0oil\u00A0company. He also kicked all Western companies out of the\u00A0oil refineries\u00A0in\u00A0Abadan, Iran."
+  },
+  {
+    "Name": "Elizabeth II",
+    "Year": 1952,
+    "Yeartail": 52,
+    "Pics": "images/1952.jpg",
+    "Description": "In 1952, Elizabeth became\u00A0Queen\u00A0of the\u00A0United Kingdom,\u00A0Australia,\u00A0Canada,\u00A0Ceylon,\u00A0New Zealand,\u00A0Pakistan\u00A0and\u00A0South Africa. She became Queen after her father, King\u00A0George VI, died."
+  },
+  {
+    "Name": "Konrad Adenauer",
+    "Year": 1953,
+    "Yeartail": 53,
+    "Pics": "images/1953.jpg",
+    "Description": "In 1953, Adenauer was re-elected as Chancellor of Germany."
+  },
+  {
+    "Name": "John Foster Dulles",
+    "Year": 1954,
+    "Yeartail": 54,
+    "Pics": "images/1954.jpg",
+    "Description": "As United States Secretary of State in 1954, Dulles created the\u00A0Southeast Asia Treaty Organization\u00A0(SEATO). SEATO's goal was to stop\u00A0communists\u00A0from taking over any more countries in\u00A0Southeast Asia."
+  },
+  {
+    "Name": "Harlow Curtice",
+    "Year": 1955,
+    "Yeartail": 55,
+    "Pics": "images/1955.jpg",
+    "Description": "Curtice was the head of\u00A0General Motors\u00A0from 1953 to 1958. In 1955, GM became the first\u00A0corporation\u00A0to earn US$1\u00A0billion in a single year. Led by Curtice, they sold five million\u00A0vehicles\u00A0that year.[12]"
+  },
+  {
+    "Name": "The Hungarian freedom fighter",
+    "Year": 1956,
+    "Yeartail": 56,
+    "Pics": "images/1956.jpg",
+    "Description": "\"The\u00A0Hungarian\u00A0freedom fighter\" honors the people who fought for Hungary's\u00A0independence\u00A0from the Soviet Union in the failed\u00A0Hungarian Revolution of 1956."
+  },
+  {
+    "Name": "Nikita Khrushchev",
+    "Year": 1957,
+    "Yeartail": 57,
+    "Pics": "images/1957.jpg",
+    "Description": "In 1957, Khrushchev became the definite leader of the Soviet Union, after surviving a plan to get rid of him. Also in 1957, the Soviet Union launched\u00A0Sputnik 1, the first\u00A0satellite\u00A0ever to enter the\u00A0Earth's\u00A0orbit. This started the\u00A0Space Race\u00A0between the Soviet Union and the U.S."
+  },
+  {
+    "Name": "Charles de Gaulle",
+    "Year": 1958,
+    "Yeartail": 58,
+    "Pics": "images/1958.jpg",
+    "Description": "After being\u00A0retired\u00A0from politics for 10 years, de Gaulle was chosen as Prime Minister of France in 1958. After a crisis in May 1958, the French Fourth\u00A0Republic\u00A0collapsed and the Fifth Republic was created. It had a new constitution which replaced France's\u00A0parliamentary government\u00A0with a government led by a President. De Gaulle was then elected President of the Fifth Republic."
+  },
+  {
+    "Name": "Dwight D. Eisenhower",
+    "Year": 1959,
+    "Yeartail": 59,
+    "Pics": "images/1959.jpg",
+    "Description": "Eisenhower was President of the United States from 1953 to 1961."
+  },
+  {
+    "Name": "U.S. Scientists",
+    "Year": 1960,
+    "Yeartail": 60,
+    "Pics": "images/1960.jpg",
+    "Description": "The 1960 award honored all American scientists, represented by\u00A0George Beadle,\u00A0Charles Draper,\u00A0John Enders,\u00A0Donald A. Glaser,\u00A0Joshua Lederberg,\u00A0Willard Libby,\u00A0Linus Pauling,\u00A0Edward Purcell,\u00A0Isidor Rabi,\u00A0Emilio Segr\u00E8,\u00A0William Shockley,\u00A0Edward Teller,\u00A0Charles Townes,\u00A0James Van Allen, and\u00A0Robert Woodward"
+  },
+  {
+    "Name": "John F. Kennedy",
+    "Year": 1961,
+    "Yeartail": 61,
+    "Pics": "images/1961.jpg",
+    "Description": "Kennedy became the U.S. President in 1961. He ordered the\u00A0Bay of Pigs invasion\u00A0of Cuba. The U.S. trained people who had been\u00A0kicked out of Cuba\u00A0to do the invasion. They wanted to remove\u00A0Fidel Castro\u00A0from power. The invasion failed terribly."
+  },
+  {
+    "Name": "Pope John XXIII",
+    "Year": 1962,
+    "Yeartail": 62,
+    "Pics": "images/1962.jpg",
+    "Description": "Pope\u00A0John XXIII led the\u00A0Catholic Church\u00A0from 1958-1963. In 1962, he volunteered to help the Soviet Union, Cuba, and the U.S. solve the\u00A0Cuban Missile Crisis\u00A0peacefully. All three countries said the Pope did a good job."
+  },
+  {
+    "Name": "Martin Luther King Jr.",
+    "Year": 1963,
+    "Yeartail": 63,
+    "Pics": "images/1963.jpg",
+    "Description": "King was a famous\u00A0civil rights\u00A0leader from 1955\u20131968. He and his supporters used\u00A0non-violent\u00A0protests\u00A0to gain rights for\u00A0African-American people. In 1963, King gave his famous \"I Have a Dream\" speech at the\u00A0March on Washington for Jobs and Freedom."
+  },
+  {
+    "Name": "Lyndon B. Johnson",
+    "Year": 1964,
+    "Yeartail": 64,
+    "Pics": "images/1964.jpg",
+    "Description": "Johnson had automatically become President when\u00A0President Kennedy was murdered\u00A0in November 1963. However, in 1964, Johnson was elected President. He got the\u00A0Civil Rights Act of 1964\u00A0passed; said the U.S. would fight a \"War on Poverty\"; and got the U.S. more involved in the\u00A0Vietnam War."
+  },
+  {
+    "Name": "William Westmoreland",
+    "Year": 1965,
+    "Yeartail": 65,
+    "Pics": "images/1965.jpg",
+    "Description": "General\u00A0Westmoreland was the commander of all United States soldiers in\u00A0South Vietnam\u00A0during the Vietnam War."
+  },
+  {
+    "Name": "The Inheritor",
+    "Year": 1966,
+    "Yeartail": 66,
+    "Pics": "images/1966.jpg",
+    "Description": "Today, \"The Inheritors\" are usually called \"the\u00A0baby boomers.\" In 1966, \"The Inheritors\" were a\u00A0generation\u00A0of people ages 25 and under."
+  },
+  {
+    "Name": "Lyndon B. Johnson",
+    "Year": 1967,
+    "Yeartail": 67,
+    "Pics": "images/1967.jpg",
+    "Description": "In 1967, Johnson was becoming very unpopular because of the Vietnam War. Protests were getting more common, especially after Johnson sent more soldiers to Vietnam. There were also\u00A0riots\u00A0in many cities after\u00A0Martin Luther King, Jr. was murdered. Johnson tried to get more civil rights laws passed, but could not. Also in 1967, Johnson chose\u00A0Thurgood Marshall\u00A0as the first African American\u00A0Supreme Court Justice."
+  },
+  {
+    "Name": "The\u00A0 Apollo 8 \u00A0astronauts",
+    "Year": 1968,
+    "Yeartail": 68,
+    "Pics": "images/1968.jpg",
+    "Description": "The Apollo 8 astronauts were\u00A0William Anders,\u00A0Frank Borman, and\u00A0Jim Lovell. They were the first people ever to\u00A0orbit\u00A0(fly around) the\u00A0Moon. This was an important step towards walking on the moon."
+  },
+  {
+    "Name": "The\u00A0 Middle Americans",
+    "Year": 1969,
+    "Yeartail": 69,
+    "Pics": "images/1969.jpg",
+    "Description": "\"Middle Americans\" are people who live in the center of the United States. In 1969, many\u00A0conservative,\u00A0religious\u00A0Middle Americans started to make their\u00A0opinions\u00A0known. For example, one town\u00A0prayed\u00A0in their schools after the Supreme Court ruled this was illegal. State\u00A0legislatures\u00A0suggested over 100 laws to prevent\u00A0college\u00A0students from protesting the war."
+  },
+  {
+    "Name": "Willy Brandt",
+    "Year": 1970,
+    "Yeartail": 70,
+    "Pics": "images/1970.jpg",
+    "Description": "Brandt was Chancellor of Germany. In 1970, he worked to create a better relationship between his country and\u00A0East Germany\u00A0(which was controlled by the Soviet Union)."
+  },
+  {
+    "Name": "Richard Nixon",
+    "Year": 1971,
+    "Yeartail": 71,
+    "Pics": "images/1971.jpg",
+    "Description": "Nixon was U.S. President from 1969-1974. In 1971, he started improving the U.S.'s relationship with\u00A0China. He also suggested making\u00A0health insurance\u00A0private and supporting\u00A0Health Maintenance Organizations\u00A0(HMOs). Also in 1971, he created the United States National\u00A0Postal Service."
+  },
+  {
+    "Name": "Richard Nixon&Henry Kissinger",
+    "Year": 1972,
+    "Yeartail": 72,
+    "Pics": "images/1972.jpg",
+    "Description": "In 1972, Nixon visited China. He was the first U.S. President to visit China. He signed the\u00A0SALT I treaty\u00A0with the Soviet Union, agreeing that both the U.S. and the Soviets would limit the number of new\u00A0missiles\u00A0they made. Later in 1972, he was re-elected President. Kissinger was Nixon's\u00A0National Security Advisor. He traveled with Nixon to China."
+  },
+  {
+    "Name": "John Sirica",
+    "Year": 1973,
+    "Yeartail": 73,
+    "Pics": "images/1973.jpg",
+    "Description": "Sirica was the\u00A0judge\u00A0who ordered President Nixon to turn over tape recordings that had to do with the\u00A0Watergate scandal. The tapes recorded conversations that happened in the\u00A0White House."
+  },
+  {
+    "Name": "King Faisal",
+    "Year": 1974,
+    "Yeartail": 74,
+    "Pics": "images/1974.jpg",
+    "Description": "Faisal was\u00A0King of Saudi Arabia\u00A0during the\u00A0oil crisis of 1973\u20131974. In 1973,\u00A0Israel\u00A0was fighting a group of\u00A0Arab countries\u00A0in the\u00A01973 Arab-Israeli War. Saudi Arabia refused to ship\u00A0oil\u00A0to any of the Western countries that supported Israel. This caused the oil crisis, where many Western countries did not have enough oil."
+  },
+  {
+    "Name": "American women",
+    "Year": 1975,
+    "Yeartail": 75,
+    "Pics": "images/1975.jpg",
+    "Description": "This award honored\u00A0feminists\u00A0in the U.S. who were fighting for equal rights for women. The feminist\u00A0movement\u00A0was represented by\u00A0Susan Brownmiller,\u00A0Kathleen Byerly,\u00A0Alison Cheek,\u00A0Jill Conway,\u00A0Betty Ford,\u00A0Ella Grasso,\u00A0Carla Hills,\u00A0Barbara Jordan,\u00A0Billie Jean King,\u00A0Carol Sutton,\u00A0Susie Sharp, and\u00A0Addie Wyatt."
+  },
+  {
+    "Name": "Jimmy Carter",
+    "Year": 1976,
+    "Yeartail": 76,
+    "Pics": "images/1976.jpg",
+    "Description": "In 1976, Carter was\u00A0elected\u00A0President of the U.S."
+  },
+  {
+    "Name": "Anwar Sadat",
+    "Year": 1977,
+    "Yeartail": 77,
+    "Pics": "images/1977.jpg",
+    "Description": "Sadat was\u00A0President of Egypt. In 1977, he became the first\u00A0Arab leader\u00A0to travel to Israel. The two countries discussed having a better relationship."
+  },
+  {
+    "Name": "Deng Xiaoping",
+    "Year": 1978,
+    "Yeartail": 78,
+    "Pics": "images/1978.jpg",
+    "Description": "In 1978, Deng took over the\u00A0Chinese\u00A0government in a\u00A0coup d'\u00E9tat. He overthrew\u00A0Hua Guofeng\u00A0and made himself\u00A0Paramount Leader\u00A0of the People's Republic of China."
+  },
+  {
+    "Name": "Ruhollah Khomeini",
+    "Year": 1979,
+    "Yeartail": 79,
+    "Pics": "images/1979.jpg",
+    "Description": "In 1979,\u00A0Ayatollah\u00A0Khomeini led the\u00A0Islamic Revolution\u00A0in\u00A0Iran. The Revolution overthrew the\u00A0Shah\u00A0(King) of Iran,\u00A0Mohammad Reza Pahlavi. It made Iran into a\u00A0theocracy\u00A0(a country controlled by religious leaders) and an\u00A0Islamic Republic."
+  },
+  {
+    "Name": "Ronald Reagan",
+    "Year": 1980,
+    "Yeartail": 80,
+    "Pics": "images/1980.jpg",
+    "Description": "Reagan was\u00A0elected\u00A0President of the U.S. in 1980."
+  },
+  {
+    "Name": "Lech Wa\u0142\u0119sa",
+    "Year": 1981,
+    "Yeartail": 81,
+    "Pics": "images/1981.jpg",
+    "Description": "Walesa led the Polish\u00A0Solidarity\u00A0trade union. This was the first trade union in the Soviet Union that was not controlled by a\u00A0communist\u00A0political party. In December 1981, he was arrested and arrest and Poland was put under\u00A0martial law."
+  },
+  {
+    "Name": "The Computer",
+    "Year": 1982,
+    "Yeartail": 82,
+    "Pics": "images/1982.jpg",
+    "Description": "In 1982, the computer was voted \"Machine of the Year.\""
+  },
+  {
+    "Name": "Ronald Reagan&Yuri Andropov",
+    "Year": 1983,
+    "Yeartail": 83,
+    "Pics": "images/1983.jpg",
+    "Description": "In 1983, as President of the U.S., Reagan ordered the\u00A0Invasion of Grenada\u00A0and pushed for the\u00A0Strategic Defense Initiative. Andropov was a Soviet leader. He was strongly against Reagan's Strategic Defense Initiative. Andropov was\u00A0hospitalized\u00A0in August 1983 and died in 1984."
+  },
+  {
+    "Name": "Peter Ueberroth",
+    "Year": 1984,
+    "Yeartail": 84,
+    "Pics": "images/1984.jpg",
+    "Description": "Uberroth organized the\u00A01984 Summer Olympics\u00A0in\u00A0Los Angeles. The Soviet Union\u00A0boycotted\u00A0the Olympics. They did this because the U.S. had boycotted the\u00A01980 Summer Olympics\u00A0because they were held in\u00A0Moscow."
+  },
+  {
+    "Name": "Deng Xiaoping",
+    "Year": 1985,
+    "Yeartail": 85,
+    "Pics": "images/1985.jpg",
+    "Description": "Deng was\u00A0Paramount Leader\u00A0of China. He was honored for making changes to improve the Chinese\u00A0economy. He made these changes even though they went against common\u00A0Marxist\u00A0beliefs.[13]"
+  },
+  {
+    "Name": "Corazon Aquino",
+    "Year": 1986,
+    "Yeartail": 86,
+    "Pics": "images/1986.jpg",
+    "Description": "Aquino was an important part of the\u00A0People Power Revolution\u00A0in the Philippines. In 1986, the Revolution led to\u00A0Ferdinand Marcos\u00A0leaving power. The Philippines became a\u00A0democracy\u00A0again. Aquino was elected\u00A0President of the Philippines."
+  },
+  {
+    "Name": "Mikhail Gorbachev",
+    "Year": 1987,
+    "Yeartail": 87,
+    "Pics": "images/1987.jpg",
+    "Description": "As leader of the Soviet Union, Gorbachev started a program called\u00A0Perestroika\u00A0in 1987. This program tried to improve the Soviet\u00A0economy."
+  },
+  {
+    "Name": "The Endangered\u00A0 Earth",
+    "Year": 1988,
+    "Yeartail": 88,
+    "Pics": "images/1988.jpg",
+    "Description": "\"The Endangered Earth\" was voted \"Planet of the Year\" in 1988."
+  },
+  {
+    "Name": "Mikhail Gorbachev",
+    "Year": 1989,
+    "Yeartail": 89,
+    "Pics": "images/1989.jpg",
+    "Description": "Gorbachev was voted \"Man of the Decade.\" In 1989, as the Soviet Union's leader, Gorbachev made the first free Soviet\u00A0elections\u00A0happen. Also in 1989, the\u00A0Eastern Bloc\u00A0split into separate countries."
+  },
+  {
+    "Name": "George H. W. Bush",
+    "Year": 1990,
+    "Yeartail": 90,
+    "Pics": "images/1990.jpg",
+    "Description": "As U.S. President, Bush was in charge of the\u00A0United States Military\u00A0during the\u00A0Gulf War\u00A0(1990-1991). He died on November 30th 2018, 7 months after his wife Barbara passed away."
+  },
+  {
+    "Name": "Ted Turner",
+    "Year": 1991,
+    "Yeartail": 91,
+    "Pics": "images/1991.jpg",
+    "Description": "Turner started\u00A0CNN. In 1991, CNN became very popular. It was the only\u00A0TV\u00A0news network that was able to broadcast\u00A0video\u00A0live from\u00A0Iraq\u00A0when the U.S. and its allies started\u00A0bombing\u00A0Iraq. This made CNN more popular than\u00A0ABC,\u00A0CBS, and\u00A0NBC\u00A0for the first time ever.[14]"
+  },
+  {
+    "Name": "Bill Clinton",
+    "Year": 1992,
+    "Yeartail": 92,
+    "Pics": "images/1992.jpg",
+    "Description": "Clinton was\u00A0elected\u00A0President of the U.S. in 1992."
+  },
+  {
+    "Name": "The Peacemakers",
+    "Year": 1993,
+    "Yeartail": 93,
+    "Pics": "images/1993.jpg",
+    "Description": "Honoring peacemakers, represented by\u00A0Yasser Arafat,\u00A0F. W. de Klerk,\u00A0Nelson Mandela, and\u00A0Yitzhak Rabin. Arafat (President of the\u00A0Palestinian National Authority\u00A0and Rabin (Prime Minister of Israel) signed the 1993\u00A0Oslo Accord. This was the first face-to-face agreement between Palestinian and Israeli leaders. De Klerk (State President of\u00A0South Africa) got Mandela released from prison in 1990. The two worked together to end\u00A0apartheid."
+  },
+  {
+    "Name": "Pope John Paul II",
+    "Year": 1994,
+    "Yeartail": 94,
+    "Pics": "images/1994.jpg",
+    "Description": "John Paul II was\u00A0Pope\u00A0(head of the\u00A0Catholic Church) from 1978 to 2005. In 1994, he hosted\u00A0Papal Concert to Commemorate the Holocaust.\u00A0It was the first event at the\u00A0Vatican\u00A0ever to be dedicated to the six million\u00A0Jews\u00A0who died in the\u00A0Holocaust. He also worked for an end to the\u00A0Rwandan Genocide."
+  },
+  {
+    "Name": "Newt Gingrich",
+    "Year": 1995,
+    "Yeartail": 95,
+    "Pics": "images/1995.jpg",
+    "Description": "Gingrich led the \"Republican Revolution\", where the U.S. voted in huge numbers for\u00A0Republican\u00A0party\u00A0candidates. Gingrich got elected\u00A0Speaker of the U.S. House of Representatives."
+  },
+  {
+    "Name": "David Ho",
+    "Year": 1996,
+    "Yeartail": 96,
+    "Pics": "images/1996.jpg",
+    "Description": "Ho was a\u00A0scientist\u00A0who\u00A0researched\u00A0AIDS. He made many important discoveries about AIDS."
+  },
+  {
+    "Name": "Andrew Grove",
+    "Year": 1997,
+    "Yeartail": 97,
+    "Pics": "images/1997.jpg",
+    "Description": "Grove became President and\u00A0CEO\u00A0of\u00A0Intel\u00A0in 1997. Since he helped start the company in 1968, he helped\u00A0invent\u00A0microprocessors. They are so important for computers that even today, almost every electronic device has a microprocessor."
+  },
+  {
+    "Name": "Bill Clinton\u00A0&Ken Starr",
+    "Year": 1998,
+    "Yeartail": 98,
+    "Pics": "images/1998.jpg",
+    "Description": "Clinton was\u00A0impeached\u00A0in 1998 about the\u00A0Monica Lewinsky scandal. Clinton was found not guilty by the\u00A0U.S. Senate. Starr was an investigator for Congress. He wrote a book called\u00A0The Starr Report\u00A0which was released to the public in 1998. It became very popular."
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Year": 1999,
+    "Yeartail": 99,
+    "Pics": "images/1999.jpg",
+    "Description": "TIME also voted Bezos one of the\u00A0Most Important People of the Century. He created\u00A0Amazon.com, which became the world's most popular online store.[15]\u00A0He also created video streaming and many other important computer-related things."
+  },
+  {
+    "Name": "George W. Bush",
+    "Year": 2000,
+    "Yeartail": "00",
+    "Pics": "images/2000.jpg",
+    "Description": "In 2000, Bush was\u00A0elected\u00A0President of the U.S. The election was very close, and the\u00A0Supreme Court\u00A0had to decide who the winner was."
+  },
+  {
+    "Name": "Rudy Giuliani",
+    "Year": 2001,
+    "Yeartail": "01",
+    "Pics": "images/2001.jpg",
+    "Description": "Giuliani was\u00A0Mayor of New York City\u00A0during the\u00A0September 11th attacks."
+  },
+  {
+    "Name": "The\u00A0 Whistleblowers",
+    "Year": 2002,
+    "Yeartail": "02",
+    "Pics": "images/2002.jpg",
+    "Description": "Honoring \"the Whistleblowers\" (people who tell police or the public about illegal things companies are doing). Represented by\u00A0Cynthia Cooper\u00A0(WorldCom),\u00A0Coleen Rowley\u00A0(FBI), and\u00A0Sherron Watkins\u00A0(Enron)"
+  },
+  {
+    "Name": "The\u00A0 American soldier",
+    "Year": 2003,
+    "Yeartail": "03",
+    "Pics": "images/2003.jpg",
+    "Description": "Honoring U.S. soldiers around the world, but especially in the\u00A0War in Iraq, which started in 2003."
+  },
+  {
+    "Name": "George W. Bush",
+    "Year": 2004,
+    "Yeartail": "04",
+    "Pics": "images/2004.jpg",
+    "Description": "In 2004, Bush was\u00A0re-elected\u00A0President of the U.S. As President, he continued to be in charge of the U.S. military in Iraq."
+  },
+  {
+    "Name": "The Good Samaritans",
+    "Year": 2005,
+    "Yeartail": "05",
+    "Pics": "images/2005.jpg",
+    "Description": "Represented by\u00A0philanthropists\u00A0Bono,\u00A0Bill Gates, and\u00A0Melinda Gates. Bono, a member of the rock band\u00A0U2, helped to organise the 2005\u00A0Live 8\u00A0concerts, which raised money for\u00A0poor\u00A0countries. Bill Gates, founder of\u00A0Microsoft\u00A0and then the richest person in the world, founded the\u00A0Bill & Melinda Gates Foundation\u00A0with his wife."
+  },
+  {
+    "Name": "You",
+    "Year": 2006,
+    "Yeartail": "06",
+    "Pics": "images/2006.jpg",
+    "Description": "TIME made \"You\" the 2006 person of the year. \"You\" represent the millions of people who create things on the\u00A0Internet\u00A0(like websites,\u00A0blogs, or Wikipedia pages)"
+  },
+  {
+    "Name": "Vladimir Putin",
+    "Year": 2007,
+    "Yeartail": "07",
+    "Pics": "images/2007.jpg",
+    "Description": "In 2007, Putin was serving as\u00A0President of Russia. He\u00A0dissolved\u00A0the government before an upcoming\u00A0parliamentary\u00A0election."
+  },
+  {
+    "Name": "Barack Obama",
+    "Year": 2008,
+    "Yeartail": "08",
+    "Pics": "images/2008.jpg",
+    "Description": ".In 2008, the U.S.\u00A0voted Obama the next\u00A0President of the U.S. In January 2009, when he was\u00A0sworn in, he became first\u00A0African-American\u00A0President in U.S. history."
+  },
+  {
+    "Name": "Ben Bernanke",
+    "Year": 2009,
+    "Yeartail": "09",
+    "Pics": "images/2009.jpg",
+    "Description": "Bernanke was the Chairman (head) of the\u00A0Federal Reserve\u00A0during the\u00A0Financial crisis of 2007\u20132008"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Year": 2010,
+    "Yeartail": "10",
+    "Pics": "images/2010.jpg",
+    "Description": "Zuckerberg founded the famous website\u00A0Facebook"
+  },
+  {
+    "Name": "The Protester",
+    "Year": 2011,
+    "Yeartail": "11",
+    "Pics": "images/2011.jpg",
+    "Description": "\"The Protester\" represented the many\u00A0protest\u00A0movements\u00A0that happened around the world in 2011. These included the\u00A0Arab Spring, the\u00A0Indignants Movement,\u00A0Tea Party movement,\u00A0Occupy Movement, and protests in\u00A0Greece,\u00A0India\u00A0and\u00A0Russia"
+  },
+  {
+    "Name": "Barack Obama",
+    "Year": 2012,
+    "Yeartail": "12",
+    "Pics": "images/2012.jpg",
+    "Description": "In 2012, Obama was\u00A0re-elected\u00A0President of the United States."
+  },
+  {
+    "Name": "Pope Francis",
+    "Year": 2013,
+    "Yeartail": "13",
+    "Pics": "images/2013.jpg",
+    "Description": "Francis was\u00A0elected\u00A0head\u00A0of the\u00A0Roman Catholic Church\u00A0in 2013, after the last Pope,\u00A0Benedict XVI,\u00A0gave up the position"
+  },
+  {
+    "Name": "Ebola \u00A0fighters",
+    "Year": 2014,
+    "Yeartail": "14",
+    "Pics": "images/2014.jpg",
+    "Description": "\"Ebola fighters\" honors health care workers who helped fight the spread of\u00A0Ebola virus\u00A0during the Ebola\u00A0epidemic\u00A0in\u00A0West Africa. This meant not only to doctors and\u00A0nurses, but also\u00A0ambulance\u00A0workers, burial parties, and everyone else who fought Ebola in any way.[25]"
+  },
+  {
+    "Name": "Angela Merkel",
+    "Year": 2015,
+    "Yeartail": "15",
+    "Pics": "images/2015.jpg",
+    "Description": "Merkel was\u00A0Chancellor of Germany\u00A0since 2005. She was honored for her leadership in the\u00A0Greek debt crisis\u00A0and\u00A0European migrant crisis.[26]"
+  },
+  {
+    "Name": "Donald Trump",
+    "Year": 2016,
+    "Yeartail": "16",
+    "Pics": "images/2016.jpg",
+    "Description": "On November 9, 2016, Trump was elected\u00A0President of the United States\u00A0in the\u00A02016 United States presidential election."
+  },
+  {
+    "Name": "The Silence Breakers",
+    "Year": 2017,
+    "Yeartail": "17",
+    "Pics": "images/2017.jpg",
+    "Description": "The people who spoke out against sexual abuse and harassment, including the figureheads of the Me Too movement in the aftermath of the\u00A0Harvey Weinstein\u00A0sexual abuse and harassment allegations in October 2017. Represented on the cover by strawberry picker Isabel Pascual (pseudonym), lobbyist\u00A0Adama Iwu, actress\u00A0Ashley Judd, software engineer\u00A0Susan Fowler, singer-songwriter\u00A0Taylor Swift\u00A0and a sixth woman, a hospital worker who wished to remain anonymous and whose face cannot be seen. The feature also specifically spotlights, in order, actress\u00A0Alyssa Milano, activist\u00A0Tarana Burke, actress\u00A0Selma Blair, the six\u00A0plantiffs\u00A0in a lawsuit against the Plaza Hotel, politician\u00A0Sara Gelser, dishwasher Sandra Pezqueda, filmmaker\u00A0Blaise Godbe Lipman, actress\u00A0Rose McGowan, psychotherapist and writer\u00A0Wendy Walsh, blogger\u00A0Lindsey Reynolds, entrepreneur\u00A0Lindsay Meyer, housekeeper Juana Melara, journalist\u00A0Sandra Muller, actor\u00A0Terry Crews, University of Rochester professors\u00A0Celeste Kidd\u00A0and\u00A0Jessica Cantlon, journalist\u00A0Megyn Kelly\u00A0and art curator\u00A0Amanda Schmitt."
+  },
+  {
+    "Name": "The Guardians",
+    "Year": 2018,
+    "Yeartail": "18",
+    "Pics": "images/2018.jpg",
+    "Description": "Journalists who faced persecution, arrest or murder for their reporting. Those highlighted on four different covers were:\u00A0Jamal Khashoggi,\u00A0Washington Post\u00A0columnist murdered for his criticism of the\u00A0Saudi crown prince;\u00A0Maria Ressa, editor of the Philippine news website\u00A0Rappler, who was indicted for her critical coverage of\u00A0its president\u2019s controversially violent policies; Wa Lone and Kyaw Soe Oo,\u00A0Reuters\u00A0journalists captured in Myanmar while investigating a\u00A0massacre of Rohingya Muslims; and the\u00A0Capital Gazette, a Maryland newspaper company targeted by a gunman who killed of its five staff members in a\u00A0mass shooting.[27]"
+  },
+  {
+    "Name": "Greta Thunberg",
+    "Year": 2019,
+    "Yeartail": "19",
+    "Pics": "images/2019.jpg",
+    "Description": "In late August of 2018 Greta has sat down under building of Swedish Parliament to protest against government's inaction on tackling climate change. She has called this action \"school strike for climate\" and since then more and more young people across the globe joined the action. She was nominated for Nobel Price in 2019 and received many other prestige rewards including one from council of north which she rejected. On 20th September 2019 which was global climate strike over 7 million people in thousands of locations protested in strike organized by Fridays For Future, movement which was started by her."
+  }
+]
